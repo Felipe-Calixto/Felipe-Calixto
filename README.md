@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Felipe-Calixto
-- 👀 I'm interested to get an internship
-- 🌱 I’m currently learning HTML, CSS, JS end React Native
+- 🌱 I’m currently learning HTML, CSS, JS and React 
 - 📫 https://www.linkedin.com/in/felipe-calixto-b78194240/ 
 
 <!--
