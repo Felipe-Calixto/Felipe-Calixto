@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Felipe-Calixto
-- 🌱 I’m currently learning HTML, CSS, JS and React 
-- 📫 https://www.linkedin.com/in/felipe-calixto-b78194240/ 
-
-<!--
-Felipe-Calixto/Felipe-Calixto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Calixto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Calixto&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/felipe_calixto03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/felipe-calixto-b78194240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/Felipe-Calixto/Felipe-Calixto/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
